@@ -4,4 +4,5 @@
 
 # ScreenShots
 The window is look like that.
+
 <img src="Capture.PNG" alt="Screenshot-01">
